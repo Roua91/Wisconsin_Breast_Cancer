@@ -1,4 +1,4 @@
-### Wisconsin Breast Cancer 
+# Wisconsin Breast Cancer 
 
 ## Project Description
 
@@ -22,8 +22,9 @@ The dataset used in this study is the Breast Cancer Wisconsin Diagnostic dataset
 - **Feature Scaling**: Normalizing features to ensure they are on the same scale.
 
 ### Exploratory Data Analysis
-
-- **Bivariate Analysis**: Visualizing features against the diagnosis to identify patterns.
+- **Correlation Matrix**
+- **Bivariate Analysis**
+- **PCA Visulisation**
 
 ### Machine Learning Models
 
@@ -114,11 +115,10 @@ This project demonstrates the effectiveness of machine learning in enhancing bre
 - `wisconsin_supervised.ipynb`: Notebook for supervised learning analysis.
 - `Wisconsin_Streamlit.py`: Streamlit app for deploying the SVM model.
 - `Data.csv`: Wisconsin diagnostic breast cancer dataset
+- `requirments.txt`
 
 ## Acknowledgements
 
 - The dataset was provided by Wolberg et al. (1995).
 - Streamlit was used for deploying the model.
-- Special thanks to all contributors and reviewers of this project.
 
-Feel free to reach out if you have any questions or suggestions!
